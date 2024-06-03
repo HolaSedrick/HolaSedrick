@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Speeding Ticket Program](https://github.com/HolaSedrick/SpeedingTicketProgram)
 - <b>Microsoft Excel</b>
-  - [Realtor Home Search Spreadsheet Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Realtor Home Search Spreadsheet Project](https://github.com/HolaSedrick/RealtorSpreadsheetProject)
 - <b>Web Development</b>
   - [Port Huron, MI Tourism Website Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
