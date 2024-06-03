@@ -3,7 +3,7 @@
 <h2>Computer Information Systems Projects:</h2>
 
 - <b>Python</b>
-  - [Speeding Ticket Program](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Speeding Ticket Program](https://github.com/HolaSedrick/SpeedingTicketProgram)
 - <b>Microsoft Excel</b>
   - [Realtor Home Search Spreadsheet Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Web Development</b>
