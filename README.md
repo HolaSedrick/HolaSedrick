@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sedrick! <br/><a </a></h1>
 
 <h2>Computer Information Systems Projects:</h2>
-<h3>St. Clair County Community College (AAS Computer Information Systems)</h3>
+<h4>St. Clair County Community College (AAS Computer Information Systems)</h4>
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
