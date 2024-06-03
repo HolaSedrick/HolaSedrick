@@ -6,6 +6,7 @@
 - <b>Python</b>
   - [Speeding Ticket Program](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Speeding Ticket Calculator](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+-  <b>Microsoft Excel</b>
 
 
 <h2>Connect with me:</h2>
