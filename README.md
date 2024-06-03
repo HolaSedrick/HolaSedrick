@@ -4,7 +4,6 @@
 
 - <b>Python</b>
   - [Speeding Ticket Program](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Speeding Ticket Calculator](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Microsoft Excel</b>
   - [Realtor Home Search Spreadsheet Project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Web Development</b>
